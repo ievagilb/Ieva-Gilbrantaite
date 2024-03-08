@@ -15,8 +15,7 @@ Hi there! I'm Ieva, a passionate Junior Software Engineer and Coding Enthusiast.
 ## Projects
 
 ### Project 1: Interest calculator
-- 
-"Financial Calculator: A versatile Python program designed to aid in financial decision-making. This calculator allows users to input parameters such as principal amount, interest rate, and investment or loan duration, calculating either interest on an investment or monthly home loan repayment. With a user-friendly interface and robust error checking mechanisms, this tool offers a seamless experience for informed financial planning. Explore and contribute to this open-source project on GitHub!"
+- Financial Calculator: A versatile Python program designed to aid in financial decision-making. This calculator allows users to input parameters such as principal amount, interest rate, and investment or loan duration, calculating either interest on an investment or monthly home loan repayment. With a user-friendly interface and robust error checking mechanisms, this tool offers a seamless experience for informed financial planning. Explore and contribute to this open-source project on GitHub!
 - Python
 - [Financial Calculator](https://github.com/ievagilb/capstone-project)
 
